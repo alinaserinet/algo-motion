@@ -1,2 +1,2 @@
 # algo-motion
-Learn Algorithms through Exercise
+Learn Algorithms through Practice
